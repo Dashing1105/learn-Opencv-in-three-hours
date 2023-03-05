@@ -1,8 +1,7 @@
 # learn-Opencv-in-three-hours
 ## LEARN OPENCV IN 3 HOURS USING PYTHON - INCLUDING EXAMPLE PROJECTS
 ## Chapters
--
-Chapter1 : Read image video-webacam
+- Chapter1 : Read image video-webacam
 Chapter2 : OpenCV basis bunctions 
 Chapter3 : Crop and resize images
 Chapter4 : Draw Shapes and Text
